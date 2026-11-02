@@ -32,6 +32,6 @@ More projects coming soon!
 📫 Connect With Me
 
 - LinkedIn: linkedin.com/in/benedict-onuegbu-3a03aa290
-- GitHub: [Add your GitHub profile link]
+- GitHub: https://github.com/BenOnuegbu
 
 Thank you for visiting my portfolio!
