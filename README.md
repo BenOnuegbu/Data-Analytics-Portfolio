@@ -34,4 +34,4 @@ More projects coming soon!
 - LinkedIn: linkedin.com/in/benedict-onuegbu-3a03aa290
 - GitHub: https://github.com/BenOnuegbu
 
-Thank you for visiting my portfolio!
+Thank you for visiting my portfolio.
